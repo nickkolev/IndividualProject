@@ -19,5 +19,8 @@ public class JobTests {
         double result = job.CalculateAveragePayRate();
         // assert
         Assertions.assertEquals(42.5,result);
+
+
+
     }
 }
